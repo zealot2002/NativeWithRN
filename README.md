@@ -1,6 +1,6 @@
 # 项目名称
 # NativeWithRN
-为原生项目集成rn的demo
+为原生项目集成rn的demo      
 一、下载RN离线包
 http://bbs.reactnative.cn/topic/11/react-native
 下载17版本，最新的稳定版本，保存至任意位置。
